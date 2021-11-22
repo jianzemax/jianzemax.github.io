@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zhao Github Page</title>
-    <link>http://jianzemax.github.io/post/</link>
+    <link>https://jianzemax.gitee.io/blog/post/</link>
     <description>Recent content in Posts on Zhao Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="http://jianzemax.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.gitee.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posix socket api</title>
-      <link>http://jianzemax.github.io/post/posix/</link>
+      <link>https://jianzemax.gitee.io/blog/post/posix/</link>
       <pubDate>Mon, 22 Nov 2021 22:29:24 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/posix/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/posix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tree</title>
-      <link>http://jianzemax.github.io/post/tree/</link>
+      <link>https://jianzemax.gitee.io/blog/post/tree/</link>
       <pubDate>Sat, 20 Nov 2021 20:23:20 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/tree/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;11</title>
-      <link>http://jianzemax.github.io/post/c&#43;&#43;11/</link>
+      <link>https://jianzemax.gitee.io/blog/post/c&#43;&#43;11/</link>
       <pubDate>Sat, 20 Nov 2021 20:23:07 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/c&#43;&#43;11/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/c&#43;&#43;11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Component</title>
-      <link>http://jianzemax.github.io/post/component/</link>
+      <link>https://jianzemax.gitee.io/blog/post/component/</link>
       <pubDate>Sat, 20 Nov 2021 20:22:31 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/component/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/component/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Server</title>
-      <link>http://jianzemax.github.io/post/server/</link>
+      <link>https://jianzemax.gitee.io/blog/post/server/</link>
       <pubDate>Sat, 20 Nov 2021 20:21:59 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/server/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C10k</title>
-      <link>http://jianzemax.github.io/post/c10k/</link>
+      <link>https://jianzemax.gitee.io/blog/post/c10k/</link>
       <pubDate>Sat, 20 Nov 2021 20:21:39 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/c10k/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/c10k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Select</title>
-      <link>http://jianzemax.github.io/post/select/</link>
+      <link>https://jianzemax.gitee.io/blog/post/select/</link>
       <pubDate>Sat, 20 Nov 2021 20:21:29 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/select/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/select/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux_cmd</title>
-      <link>http://jianzemax.github.io/post/linux_cmd/</link>
+      <link>https://jianzemax.gitee.io/blog/post/linux_cmd/</link>
       <pubDate>Sat, 20 Nov 2021 20:21:16 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/linux_cmd/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/linux_cmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reactor</title>
-      <link>http://jianzemax.github.io/post/reactor/</link>
+      <link>https://jianzemax.gitee.io/blog/post/reactor/</link>
       <pubDate>Sat, 20 Nov 2021 20:19:40 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/reactor/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/reactor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epoll</title>
-      <link>http://jianzemax.github.io/post/epoll/</link>
+      <link>https://jianzemax.gitee.io/blog/post/epoll/</link>
       <pubDate>Sat, 20 Nov 2021 20:19:33 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/epoll/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/epoll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo &amp; git</title>
-      <link>http://jianzemax.github.io/post/hugogit/</link>
+      <link>https://jianzemax.gitee.io/blog/post/hugogit/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/hugogit/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/hugogit/</guid>
       <description></description>
     </item>
     

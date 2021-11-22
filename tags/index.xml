@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zhao Github Page</title>
-    <link>http://jianzemax.github.io/tags/</link>
+    <link>https://jianzemax.gitee.io/blog/tags/</link>
     <description>Recent content in Tags on Zhao Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="http://jianzemax.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.gitee.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>posix</title>
-      <link>http://jianzemax.github.io/tags/posix/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/posix/</link>
       <pubDate>Mon, 22 Nov 2021 22:29:24 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/posix/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/posix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>socket</title>
-      <link>http://jianzemax.github.io/tags/socket/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/socket/</link>
       <pubDate>Mon, 22 Nov 2021 22:29:24 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/socket/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/socket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>even</title>
-      <link>http://jianzemax.github.io/tags/even/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/even/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/even/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/even/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>http://jianzemax.github.io/tags/git/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/git/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/git/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://jianzemax.github.io/tags/hugo/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/hugo/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/hugo/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>维护</title>
-      <link>http://jianzemax.github.io/tags/%E7%BB%B4%E6%8A%A4/</link>
+      <link>https://jianzemax.gitee.io/blog/tags/%E7%BB%B4%E6%8A%A4/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/tags/%E7%BB%B4%E6%8A%A4/</guid>
+      <guid>https://jianzemax.gitee.io/blog/tags/%E7%BB%B4%E6%8A%A4/</guid>
       <description></description>
     </item>
     

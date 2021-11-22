@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>even on Zhao Github Page</title>
-    <link>http://jianzemax.github.io/tags/even/</link>
+    <link>https://jianzemax.gitee.io/blog/tags/even/</link>
     <description>Recent content in even on Zhao Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Nov 2021 19:10:25 +0800</lastBuildDate><atom:link href="http://jianzemax.github.io/tags/even/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 19:10:25 +0800</lastBuildDate><atom:link href="https://jianzemax.gitee.io/blog/tags/even/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo &amp; git</title>
-      <link>http://jianzemax.github.io/post/hugogit/</link>
+      <link>https://jianzemax.gitee.io/blog/post/hugogit/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>http://jianzemax.github.io/post/hugogit/</guid>
+      <guid>https://jianzemax.gitee.io/blog/post/hugogit/</guid>
       <description></description>
     </item>
     
