@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zhao Github Page</title>
-    <link>https://jianzemax.gitee.io/blog/categories/</link>
+    <link>https://jianzemax.github.io/categories/</link>
     <description>Recent content in Categories on Zhao Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.gitee.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>网络编程</title>
-      <link>https://jianzemax.gitee.io/blog/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link>
+      <link>https://jianzemax.github.io/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</link>
       <pubDate>Mon, 22 Nov 2021 22:29:24 +0800</pubDate>
       
-      <guid>https://jianzemax.gitee.io/blog/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid>
+      <guid>https://jianzemax.github.io/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>博客搭建</title>
-      <link>https://jianzemax.gitee.io/blog/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <link>https://jianzemax.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Sat, 20 Nov 2021 19:10:25 +0800</pubDate>
       
-      <guid>https://jianzemax.gitee.io/blog/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <guid>https://jianzemax.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
       <description></description>
     </item>
     

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://jianzemax.gitee.io/blog/sitemap.xml
+Sitemap: https://jianzemax.github.io/sitemap.xml

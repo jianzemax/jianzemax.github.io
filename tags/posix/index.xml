@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posix on Zhao Github Page</title>
-    <link>https://jianzemax.gitee.io/blog/tags/posix/</link>
+    <link>https://jianzemax.github.io/tags/posix/</link>
     <description>Recent content in posix on Zhao Github Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.gitee.io/blog/tags/posix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 22:29:24 +0800</lastBuildDate><atom:link href="https://jianzemax.github.io/tags/posix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posix socket api</title>
-      <link>https://jianzemax.gitee.io/blog/post/posix/</link>
+      <link>https://jianzemax.github.io/post/posix/</link>
       <pubDate>Mon, 22 Nov 2021 22:29:24 +0800</pubDate>
       
-      <guid>https://jianzemax.gitee.io/blog/post/posix/</guid>
+      <guid>https://jianzemax.github.io/post/posix/</guid>
       <description></description>
     </item>
     
