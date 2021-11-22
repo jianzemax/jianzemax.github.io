@@ -3,7 +3,119 @@
   
   <url>
     <loc>http://jianzemax.github.io/categories/</loc>
-    <lastmod>2021-11-20T19:10:25+08:00</lastmod>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/tags/posix/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/posix/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/tags/socket/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/tags/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/categories/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-11-22T22:29:24+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/tree/</loc>
+    <lastmod>2021-11-20T20:23:20+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/c&#43;&#43;11/</loc>
+    <lastmod>2021-11-20T20:23:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/component/</loc>
+    <lastmod>2021-11-20T20:22:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/server/</loc>
+    <lastmod>2021-11-20T20:21:59+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/c10k/</loc>
+    <lastmod>2021-11-20T20:21:39+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/select/</loc>
+    <lastmod>2021-11-20T20:21:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/linux_cmd/</loc>
+    <lastmod>2021-11-20T20:21:16+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/reactor/</loc>
+    <lastmod>2021-11-20T20:19:40+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://jianzemax.github.io/post/epoll/</loc>
+    <lastmod>2021-11-20T20:19:33+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,27 +143,6 @@
   
   <url>
     <loc>http://jianzemax.github.io/post/hugogit/</loc>
-    <lastmod>2021-11-20T19:10:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://jianzemax.github.io/</loc>
-    <lastmod>2021-11-20T19:10:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://jianzemax.github.io/post/</loc>
-    <lastmod>2021-11-20T19:10:25+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://jianzemax.github.io/tags/</loc>
     <lastmod>2021-11-20T19:10:25+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
